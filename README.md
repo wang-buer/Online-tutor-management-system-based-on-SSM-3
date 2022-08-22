@@ -1,6 +1,13 @@
-# 基于SSM的在线家教管理系统3
+# 基于SSM的在线家教管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ： **家教3**，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的在线家教管理系统拥有三个角色
 
 管理员：用户管理、教师管理、简历管理、申请管理、课程管理、招聘教师管理、应聘管理、评价管理等
@@ -9,35 +16,76 @@
 
 用户：申请教师等
 
-#### 软件架构
-软件架构说明
+![项目功能结构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122353258.jpg)
 
 
-#### 安装教程
+## 2、项目技术
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+后端框架：SSM（Spring、SpringMVC、Mybatis）
 
-#### 使用说明
+前端技术：Bootstrap、vue、jsp、css、JavaScript、JQuery
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 3、开发环境
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 特技
+## 4、功能介绍
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 4.1 登录z注册
+
+![用户登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354402.jpg)
+
+![用户注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354851.jpg)
+
+### 4.2 用户模块
+
+![用户=教师申请](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354704.jpg)
+
+![用户-招聘教师](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354824.jpg)
+
+![用户-招聘教师2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354936.jpg)
+
+### 4.3 教师模块
+
+![教师-简历管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354357.jpg)
+
+![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354656.jpeg)
+
+![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354937.jpeg)
+
+### 4.4 管理员模块
+
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354983.jpg)
+
+![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354094.jpeg)
+
+![管理员-教师简历管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354825.jpg)
+
+![管理员-教师申请管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355193.jpg)
+
+![管理员-课程信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355480.jpg)
+
+![管理员-招聘教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355554.jpg)
+
+![管理员-应聘职位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355605.jpg)
+
+![管理员-用户评价管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355612.jpg)
+
+###  4.5文档目录
+
+![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355814.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**家教3** ，获取完整版源码
+
+
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
