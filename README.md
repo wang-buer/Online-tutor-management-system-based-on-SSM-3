@@ -1,10 +1,10 @@
-# 基于SSM的在线家教管理系统
+# 基于SSM的在线家教管理系统3
 
 ## 获取方式
 
-扫描下方，回复关键词  ： **家教3**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**家教**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -16,7 +16,7 @@
 
 用户：申请教师等
 
-![项目功能结构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122353258.jpg)
+![项目功能结构图](https://www.codeshop.fun/Typora-Images/202208122353258.jpg)
 
 
 ## 2、项目技术
@@ -39,53 +39,45 @@
 
 ### 4.1 登录z注册
 
-![用户登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354402.jpg)
+![用户登录](https://www.codeshop.fun/Typora-Images/202208122354402.jpg)
 
-![用户注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354851.jpg)
+![用户注册](https://www.codeshop.fun/Typora-Images/202208122354851.jpg)
 
 ### 4.2 用户模块
 
-![用户=教师申请](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354704.jpg)
+![用户=教师申请](https://www.codeshop.fun/Typora-Images/202208122354704.jpg)
 
-![用户-招聘教师](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354824.jpg)
+![用户-招聘教师](https://www.codeshop.fun/Typora-Images/202208122354824.jpg)
 
-![用户-招聘教师2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354936.jpg)
+![用户-招聘教师2](https://www.codeshop.fun/Typora-Images/202208122354936.jpg)
 
 ### 4.3 教师模块
 
-![教师-简历管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354357.jpg)
+![教师-简历管理](https://www.codeshop.fun/Typora-Images/202208122354357.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354656.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202208122354656.jpeg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354937.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202208122354937.jpeg)
 
 ### 4.4 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354983.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208122354983.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354094.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202208122354094.jpeg)
 
-![管理员-教师简历管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122354825.jpg)
+![管理员-教师简历管理](https://www.codeshop.fun/Typora-Images/202208122354825.jpg)
 
-![管理员-教师申请管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355193.jpg)
+![管理员-教师申请管理](https://www.codeshop.fun/Typora-Images/202208122355193.jpg)
 
-![管理员-课程信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355480.jpg)
+![管理员-课程信息管理](https://www.codeshop.fun/Typora-Images/202208122355480.jpg)
 
-![管理员-招聘教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355554.jpg)
+![管理员-招聘教师管理](https://www.codeshop.fun/Typora-Images/202208122355554.jpg)
 
-![管理员-应聘职位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355605.jpg)
+![管理员-应聘职位管理](https://www.codeshop.fun/Typora-Images/202208122355605.jpg)
 
-![管理员-用户评价管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355612.jpg)
+![管理员-用户评价管理](https://www.codeshop.fun/Typora-Images/202208122355612.jpg)
 
 ###  4.5文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208122355814.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**家教3** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208122355814.jpg)
 
